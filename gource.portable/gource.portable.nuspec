@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>gource</id>
+    <id>gource.portable</id>
     <title>gource</title>
     <version>0.40</version>
     <authors>Andrew Caudwell</authors>
@@ -15,8 +15,5 @@
     <copyright></copyright>
     <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <dependencies>
-      <dependency id="gource.install" version="[0.40, 0.41)" />
-    </dependencies>
   </metadata>
 </package>
